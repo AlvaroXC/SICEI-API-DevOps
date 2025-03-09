@@ -1,0 +1,19 @@
+{
+  "name": "sicei-api",
+  "version": "1.0.0",
+  "description": "api para la materia de devops",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "type": "module",
+  "author": "Alvaro Xool",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
