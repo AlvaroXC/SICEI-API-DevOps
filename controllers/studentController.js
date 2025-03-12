@@ -1,24 +1,24 @@
 const getAll = (req, res) =>{
     const students = [
         {
-            nombre: "Alvaro",
-            matricula: 21216382
+            name: "Alvaro Xool Canul",
+            enrollmente: 21216382
         }, 
         {
-            nombre: "David",
-            matricula: 21216383
+            name: "David Perez Cruz",
+            enrollmente: 21216383
         }, 
         {
-            nombre: "Paulina",
-            matricula: 21216384
+            name: "Paulina Perera Bastarrachea",
+            enrollmente: 21216384
         }, 
         {
-            nombre: "Andrea",
-            matricula: 21216385
+            name: "Andrea Torres Perez",
+            enrollmente: 21216385
         }, 
         {
-            nombre: "Daniel",
-            matricula: 21216386
+            name: "Daniel Rosado Rodriguez",
+            enrollmente: 21216386
         }, 
     ]
 

@@ -1,20 +1,24 @@
 const getAll = (req, res) => {
     const teachers = [
         {
-            nombre: "Victor Hugo",
-            num_empleado: 12345 
+            name: "Victor Hugo",
+            employee_number: 12345 
         },
         {
-            nombre: "Antonio Aguileta",
-            num_empleado: 123456
+            name: "Antonio Aguileta",
+            employee_number: 123456
         }, 
         {
-            nombre: "Luis Basto",
-            num_empleado: 1234567
+            name: "Luis Basto",
+            employee_number: 1234567
         },
         {
-            nombre: "Julio Cesar",
-            num_empleado: 12345678
+            name: "Julio Cesar",
+            employee_number: 12345678
+        },
+        {
+            name: "Francisco Moo",
+            employee_number: 123456789
         }
     ]
 
